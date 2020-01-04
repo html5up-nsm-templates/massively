@@ -12,7 +12,7 @@
 		<!-- Wrapper -->
 			<div id="wrapper" class="fade-in">
 
-				@inputcontent
+				@content()
 
 				@input(template/footer.content)
 			</div>
